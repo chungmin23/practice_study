@@ -1,3 +1,5 @@
+package javastandard;
+
 import java.util.*;
 
 public class Ex11_7 {

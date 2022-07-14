@@ -1,3 +1,5 @@
+package javastandard;
+
 import java.util.Arrays;
 
 public class Ex11_6 {
